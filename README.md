@@ -4,8 +4,8 @@ This Project is replication of the paper "Test Re-prioritization in Continuous T
 Steps to run the project:
 1. Install Jupyter Notebook.
 2. Start the local instance in browser.
-3. Create a folder and upload the file "" to it.
+3. Create a folder and upload the file "TestReprioritization.ipynb" to it.
 4. Upload the following datasets to the same folder:
    - GooglePostCleanDataset.zip
    - GooglePreCleanDataset.zip
-5. Run the file :
+5. Run the file :TestReprioritization.ipynb
