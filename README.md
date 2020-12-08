@@ -8,4 +8,4 @@ Steps to run the project:
 4. Upload the following datasets to the same folder:
    - GooglePostCleanDataset.zip
    - GooglePreCleanDataset.zip
-5. Run the file :TestReprioritization.ipynb
+5. Run the file :TestReprioritization.ipynb cell by cell .
